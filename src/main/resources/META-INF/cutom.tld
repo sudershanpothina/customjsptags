@@ -1,0 +1,16 @@
+<taglib>
+    <short-name>Tag Lib Demo</short-name>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <uri>http://darshan.matc/tags </uri>
+    <tag>
+        <name>Hello</name>
+        <tag-class>com.darshan.customtags.HelloWorldTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>Week3Exercise</name>
+        <tag-class>com.darshan.customtags.Week3ExerciseTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>

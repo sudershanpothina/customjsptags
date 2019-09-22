@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b59f7c4c-33cc-41e9-9a7f-cfd6a912af73" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RCiyIsYGexjM4CLzFEjeaSeBc8" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.darshan.customtag" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDateGreeting.testNewYears">
+    <configuration name="TestDateGreeting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customtags" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.darshan.customtags.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.darshan.customtags" />
+      <option name="MAIN_CLASS_NAME" value="com.darshan.customtags.TestDateGreeting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDateGreeting.testGetDateGreeting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customtags" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.darshan.customtags.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.darshan.customtags" />
+      <option name="MAIN_CLASS_NAME" value="com.darshan.customtags.TestDateGreeting" />
+      <option name="METHOD_NAME" value="testGetDateGreeting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDateGreeting.testNewYears" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customtags" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.darshan.customtags.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.darshan.customtags" />
+      <option name="MAIN_CLASS_NAME" value="com.darshan.customtags.TestDateGreeting" />
+      <option name="METHOD_NAME" value="testNewYears" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWeek3ExerciseTag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customtags" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.darshan.customtags.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.darshan.customtags" />
+      <option name="MAIN_CLASS_NAME" value="com.darshan.customtags.TestWeek3ExerciseTag" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDateGreeting.testNewYears" />
+        <item itemvalue="JUnit.TestDateGreeting" />
+        <item itemvalue="JUnit.TestDateGreeting.testGetDateGreeting" />
+        <item itemvalue="JUnit.TestWeek3ExerciseTag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b59f7c4c-33cc-41e9-9a7f-cfd6a912af73" name="Default Changelist" comment="" />
+      <created>1569177731140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569177731140</updated>
+      <workItem from="1569177743933" duration="5453000" />
+      <workItem from="1569183821868" duration="5266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

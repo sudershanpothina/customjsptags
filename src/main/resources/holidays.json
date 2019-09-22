@@ -1,0 +1,184 @@
+{
+  "holidays": [
+    {
+      "name": "New Year's Day",
+      "date": "2018-01-01",
+      "observed": "2018-01-01",
+      "public": true,
+      "country": "US",
+      "uuid": "82f78b8a-019e-479e-a19f-99040275f9bf",
+      "weekday": {
+        "date": {
+          "name": "Monday",
+          "numeric": "1"
+        },
+        "observed": {
+          "name": "Monday",
+          "numeric": "1"
+        }
+      }
+    },
+    {
+      "name": "Martin Luther King, Jr. Day",
+      "date": "2018-01-15",
+      "observed": "2018-01-15",
+      "public": true,
+      "country": "US",
+      "uuid": "638d6949-d68e-438a-9335-5ef07e221db5",
+      "weekday": {
+        "date": {
+          "name": "Monday",
+          "numeric": "1"
+        },
+        "observed": {
+          "name": "Monday",
+          "numeric": "1"
+        }
+      }
+    },
+    {
+      "name": "George Washington's Birthday",
+      "date": "2018-02-19",
+      "observed": "2018-02-19",
+      "public": true,
+      "country": "US",
+      "uuid": "0f1f387c-fad3-4f69-9275-2dcf2201b4a8",
+      "weekday": {
+        "date": {
+          "name": "Monday",
+          "numeric": "1"
+        },
+        "observed": {
+          "name": "Monday",
+          "numeric": "1"
+        }
+      }
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2018-05-28",
+      "observed": "2018-05-28",
+      "public": true,
+      "country": "US",
+      "uuid": "f7e566e9-ac02-4f8c-895d-9d673e8fe956",
+      "weekday": {
+        "date": {
+          "name": "Monday",
+          "numeric": "1"
+        },
+        "observed": {
+          "name": "Monday",
+          "numeric": "1"
+        }
+      }
+    },
+    {
+      "name": "Independence Day",
+      "date": "2018-07-04",
+      "observed": "2018-07-04",
+      "public": true,
+      "country": "US",
+      "uuid": "88268759-9b90-468c-804f-b729b8418e7c",
+      "weekday": {
+        "date": {
+          "name": "Wednesday",
+          "numeric": "3"
+        },
+        "observed": {
+          "name": "Wednesday",
+          "numeric": "3"
+        }
+      }
+    },
+    {
+      "name": "Labor Day",
+      "date": "2018-09-03",
+      "observed": "2018-09-03",
+      "public": true,
+      "country": "US",
+      "uuid": "8f052b64-922c-420f-b793-4bec237580fa",
+      "weekday": {
+        "date": {
+          "name": "Monday",
+          "numeric": "1"
+        },
+        "observed": {
+          "name": "Monday",
+          "numeric": "1"
+        }
+      }
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2018-10-08",
+      "observed": "2018-10-08",
+      "public": true,
+      "country": "US",
+      "uuid": "dbb9cc22-e9d4-4a2b-9fec-4202e22d2a8d",
+      "weekday": {
+        "date": {
+          "name": "Monday",
+          "numeric": "1"
+        },
+        "observed": {
+          "name": "Monday",
+          "numeric": "1"
+        }
+      }
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2018-11-11",
+      "observed": "2018-11-12",
+      "public": true,
+      "country": "US",
+      "uuid": "3e239a53-e436-458e-9452-f93d9470c17e",
+      "weekday": {
+        "date": {
+          "name": "Sunday",
+          "numeric": "7"
+        },
+        "observed": {
+          "name": "Monday",
+          "numeric": "1"
+        }
+      }
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2018-11-22",
+      "observed": "2018-11-22",
+      "public": true,
+      "country": "US",
+      "uuid": "1bc492ba-366f-4318-96af-7c2372779cd5",
+      "weekday": {
+        "date": {
+          "name": "Thursday",
+          "numeric": "4"
+        },
+        "observed": {
+          "name": "Thursday",
+          "numeric": "4"
+        }
+      }
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2018-12-25",
+      "observed": "2018-12-25",
+      "public": true,
+      "country": "US",
+      "uuid": "57787cbd-300c-48e4-a456-165c8bdc97b0",
+      "weekday": {
+        "date": {
+          "name": "Tuesday",
+          "numeric": "2"
+        },
+        "observed": {
+          "name": "Tuesday",
+          "numeric": "2"
+        }
+      }
+    }
+  ]
+}
